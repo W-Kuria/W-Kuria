@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm William ♚ </h1>
+<h1 align="center">Hello, I'm William ♚</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+%7C+Problem+Solver;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Shipping" />
@@ -48,11 +48,11 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 📡 ISP Billing System
 
-Full-stack ISP management platform for:
+A full-stack ISP management platform for:
 
 * Customer management
 * Billing & invoices
@@ -62,20 +62,23 @@ Full-stack ISP management platform for:
 
 </td>
 
-<td width="33%">
+<td width="50%">
 
 ### 📦 School Inventory System
 
-Management platform focused on:
+A management platform focused on:
 
-* Inventory
+* Inventory management
 * Users & roles
 * Departments
 * Branches
 * Organizational resources
 
 </td>
+</tr>
+</table>
 
+---
 
 <p align="center">
   <i>"The best way to learn is to build."</i>
