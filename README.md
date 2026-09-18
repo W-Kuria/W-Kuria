@@ -1,8 +1,4 @@
-<h1 align="center">Hey, I'm William 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KosPxcXMGMK4zdFxsp/giphy.gif" width="220">
-</p>
+<h1 align="center">Hello, I'm William ♚ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+%7C+Problem+Solver;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Shipping" />
@@ -80,25 +76,9 @@ Management platform focused on:
 
 </td>
 
-<td width="33%">
-
----
-
 
 <p align="center">
   <i>"The best way to learn is to build."</i>
-</p>
-
----
-
-<p align="center">
-
-📍 Nairobi, Kenya   •   💻 Always Building
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W-Kuria&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
