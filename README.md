@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm William ♚</h1>
+<h1 align="center">Hello, I'm William ❖</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+%7C+Problem+Solver;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Shipping" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ❖ About Me
 
 ```text
 ✳ Full-stack developer
@@ -39,44 +39,8 @@
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
-
----
-
-## 🚀 Currently Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 📡 ISP Billing System
-
-A full-stack ISP management platform for:
-
-* Customer management
-* Billing & invoices
-* M-Pesa payments
-* PPPoE
-* MikroTik integration
-
-</td>
-
-<td width="50%">
-
-### 📦 School Inventory System
-
-A management platform focused on:
-
-* Inventory management
-* Users & roles
-* Departments
-* Branches
-* Organizational resources
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -85,5 +49,5 @@ A management platform focused on:
 </p>
 
 <p align="center">
-  <b>Thanks for stopping by ✨</b>
+  <b>Thanks for stopping by ✷ </b>
 </p>
