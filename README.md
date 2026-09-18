@@ -1,95 +1,106 @@
 <h1 align="center">Hey, I'm William 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/KosPxcXMGMK4zdFxsp/giphy.gif" width="220">
 </p>
 
-<h3 align="center">
-  Full-Stack Developer • Builder • Problem Solver
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Builder+%7C+Problem+Solver;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Shipping" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+practical+digital+products;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Shipping" />
+  <i>Building practical digital products and learning by shipping.</i>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Full-stack developer focused on modern web technologies
-- 🚀 Building real-world projects and learning by shipping
-- 🌐 Interested in web, mobile, APIs & backend systems
-- 🐧 Linux enthusiast
-- 🎮 Gamer when I'm not coding
+```text
+✳ Full-stack developer
+✳ Building real-world projects
+✳ Web • Mobile • APIs • Backend
+✳ Linux enthusiast
+✳ Gamer when I'm not coding
+```
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,flask,postgres,html,css,tailwind,git,github,docker,linux,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" />
+</p>
 
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,postgres" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
 ## 🚀 Currently Building
 
-| Project | Description |
-|--------|-------------|
-| 📡 **ISP Billing System** | ISP customer management, billing, payments & network automation |
-| 📦 **School Inventory Management System** | Inventory, users, departments & organizational resources |
-| 💪 **Muscle ROI** | Fitness tracking, workout efficiency & progress monitoring |
+<table>
+<tr>
+<td width="33%">
+
+### 📡 ISP Billing System
+
+Full-stack ISP management platform for:
+
+* Customer management
+* Billing & invoices
+* M-Pesa payments
+* PPPoE
+* MikroTik integration
+
+</td>
+
+<td width="33%">
+
+### 📦 School Inventory System
+
+Management platform focused on:
+
+* Inventory
+* Users & roles
+* Departments
+* Branches
+* Organizational resources
+
+</td>
+
+<td width="33%">
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=W-Kuria&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Kuria&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=W-Kuria&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/W-Kuria/W-Kuria/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-## 🌱 My Philosophy
-
-<p align="center">
-
-**Build → Break → Learn → Improve → Ship**
-
-</p>
-
----
 
 <p align="center">
   <i>"The best way to learn is to build."</i>
 </p>
 
+---
+
 <p align="center">
-  📍 Nairobi, Kenya • 💻 Always building
+
+📍 Nairobi, Kenya   •   💻 Always Building
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=W-Kuria&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by ✨</b>
 </p>
